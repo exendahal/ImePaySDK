@@ -1,7 +1,7 @@
 # ImePaySDK
-IMEPay binded sdk for Xamarin Forms
-Currently available binding dll for Xamarin Android
-This project includes the AAR binding.
+IMEPay binded sdk for Xamarin Forms.</br>
+Currently available binding dll for Xamarin Android.</br>
+This project includes the AAR binding.</br>
 AAR Bindings project is availble under aar binding folder.
 
 ## Available Bindings
