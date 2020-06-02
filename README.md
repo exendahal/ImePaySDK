@@ -9,5 +9,5 @@ AAR Bindings project is availble under aar binding folder.
 
 Note: Use android:theme="@style/MainTheme" inside application tag of Android Menifist file.
 
-## Screenshots
+## Preview
 <img  src="Screenshot/imepay.png" width="250" height="450">
